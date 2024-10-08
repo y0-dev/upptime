@@ -6,7 +6,7 @@ sites:
   - name: YOYO DEV
     url: https://yoyo.dev/
   - name: Egyla AGJA
-    url: https://agja.egyla.com/connexion
+    url: $EGYLA
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
