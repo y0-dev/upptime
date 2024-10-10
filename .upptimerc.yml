@@ -9,6 +9,8 @@ sites:
     url: $EGYLA
   - name: Egyla AGJA Site
     url: $EGYLA_AGJA_SITE
+  - name: Egyla register football
+    url: $EGYLA_REGISTER_FOOTBALL
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
