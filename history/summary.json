@@ -52,7 +52,7 @@
     "timeMonth": 161,
     "timeYear": 161,
     "dailyMinutesDown": {
-      "2024-10-11": 71,
+      "2024-10-11": 109,
       "2024-10-10": 414
     }
   },
@@ -61,19 +61,19 @@
     "url": "$EGYLA_REGISTER_FOOTBALL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "egyla-register-football",
-    "status": "down",
-    "uptime": "45.79%",
-    "uptimeDay": "45.79%",
-    "uptimeWeek": "45.79%",
-    "uptimeMonth": "45.79%",
-    "uptimeYear": "45.79%",
-    "time": 488,
-    "timeDay": 488,
-    "timeWeek": 488,
-    "timeMonth": 488,
-    "timeYear": 488,
+    "status": "up",
+    "uptime": "42.06%",
+    "uptimeDay": "42.06%",
+    "uptimeWeek": "42.06%",
+    "uptimeMonth": "42.06%",
+    "uptimeYear": "42.06%",
+    "time": 513,
+    "timeDay": 513,
+    "timeWeek": 513,
+    "timeMonth": 513,
+    "timeYear": 513,
     "dailyMinutesDown": {
-      "2024-10-11": 71,
+      "2024-10-11": 109,
       "2024-10-10": 162
     }
   }
