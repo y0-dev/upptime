@@ -1,7 +1,7 @@
 url: $EGYLA_REGISTER_FOOTBALL
-status: down
-code: 404
-responseTime: 339
-lastUpdated: 2024-10-11T11:51:48.148Z
+status: up
+code: 200
+responseTime: 714
+lastUpdated: 2024-10-11T12:17:21.159Z
 startTime: 2024-10-10T18:01:14.457Z
 generator: Upptime <https://github.com/upptime/upptime>
