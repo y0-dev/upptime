@@ -1,7 +1,7 @@
 url: $EGYLA_AGJA_SITE
-status: down
-code: 404
-responseTime: 174
-lastUpdated: 2024-10-16T09:59:52.435Z
+status: up
+code: 200
+responseTime: 3683
+lastUpdated: 2024-10-16T10:41:45.661Z
 startTime: 2024-10-10T17:05:30.673Z
 generator: Upptime <https://github.com/upptime/upptime>
