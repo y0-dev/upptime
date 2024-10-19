@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.88%",
-    "time": 734,
-    "timeDay": 1001,
-    "timeWeek": 754,
-    "timeMonth": 734,
-    "timeYear": 734,
+    "time": 724,
+    "timeDay": 782,
+    "timeWeek": 733,
+    "timeMonth": 724,
+    "timeYear": 724,
     "dailyMinutesDown": {
       "2024-10-12": 19
     }
@@ -30,40 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1572,
-    "timeDay": 1395,
-    "timeWeek": 1532,
-    "timeMonth": 1572,
-    "timeYear": 1572,
+    "time": 1585,
+    "timeDay": 1642,
+    "timeWeek": 1571,
+    "timeMonth": 1585,
+    "timeYear": 1585,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Egyla AGJA Site",
-    "url": "$EGYLA_AGJA_SITE",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "egyla-agja-site",
-    "status": "up",
-    "uptime": "17.89%",
-    "uptimeDay": "49.98%",
-    "uptimeWeek": "23.15%",
-    "uptimeMonth": "17.89%",
-    "uptimeYear": "17.89%",
-    "time": 7194,
-    "timeDay": 7648,
-    "timeWeek": 7363,
-    "timeMonth": 7194,
-    "timeYear": 7194,
-    "dailyMinutesDown": {
-      "2024-10-19": 507,
-      "2024-10-18": 774,
-      "2024-10-17": 792,
-      "2024-10-16": 1028,
-      "2024-10-15": 1440,
-      "2024-10-14": 1440,
-      "2024-10-13": 1440,
-      "2024-10-12": 1440,
-      "2024-10-11": 1440,
-      "2024-10-10": 414
-    }
   }
 ]
