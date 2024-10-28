@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 695,
-    "timeDay": 588,
-    "timeWeek": 627,
-    "timeMonth": 695,
-    "timeYear": 695,
+    "time": 694,
+    "timeDay": 669,
+    "timeWeek": 641,
+    "timeMonth": 694,
+    "timeYear": 694,
     "dailyMinutesDown": {
       "2024-10-12": 19
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "egyla-agja",
     "status": "up",
-    "uptime": "99.61%",
+    "uptime": "99.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.65%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.61%",
-    "time": 1412,
-    "timeDay": 776,
-    "timeWeek": 961,
-    "timeMonth": 1412,
-    "timeYear": 1412,
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.63%",
+    "time": 1393,
+    "timeDay": 734,
+    "timeWeek": 946,
+    "timeMonth": 1393,
+    "timeYear": 1393,
     "dailyMinutesDown": {
       "2024-10-21": 136
     }
