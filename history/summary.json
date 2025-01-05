@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/yoyo.dev.ico",
     "slug": "yoyo-dev",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 704,
-    "timeDay": 563,
-    "timeWeek": 878,
-    "timeMonth": 737,
-    "timeYear": 704,
+    "uptimeYear": "99.99%",
+    "time": 707,
+    "timeDay": 1009,
+    "timeWeek": 877,
+    "timeMonth": 744,
+    "timeYear": 707,
     "dailyMinutesDown": {
       "2024-10-12": 19
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 1182,
-    "timeDay": 715,
-    "timeWeek": 1450,
-    "timeMonth": 1043,
-    "timeYear": 1182,
+    "time": 1179,
+    "timeDay": 938,
+    "timeWeek": 1487,
+    "timeMonth": 1053,
+    "timeYear": 1179,
     "dailyMinutesDown": {
       "2024-10-21": 136
     }
