@@ -24,11 +24,11 @@
     "url": "$EGYLA",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "egyla-agja",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "97.34%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "98.00%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.90%",
     "time": 1128,
     "timeDay": 792,
@@ -36,7 +36,7 @@
     "timeMonth": 1014,
     "timeYear": 1128,
     "dailyMinutesDown": {
-      "2025-01-27": 10,
+      "2025-01-27": 0,
       "2025-01-26": 29,
       "2024-10-21": 136
     }
