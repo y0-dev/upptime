@@ -4,9 +4,9 @@
     "url": "https://yoyo.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/yoyo.dev.ico",
     "slug": "yoyo-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 762,
     "timeYear": 768,
     "dailyMinutesDown": {
+      "2025-10-05": 0,
       "2025-08-26": 45,
       "2024-10-12": 19
     }
@@ -32,7 +33,7 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.66%",
     "time": 1211,
-    "timeDay": 926,
+    "timeDay": 1093,
     "timeWeek": 1191,
     "timeMonth": 1402,
     "timeYear": 1207,
