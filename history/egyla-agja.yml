@@ -1,7 +1,7 @@
 url: $EGYLA
-status: down
-code: 403
-responseTime: 2167
-lastUpdated: 2025-12-27T20:44:55.224Z
+status: up
+code: 200
+responseTime: 1133
+lastUpdated: 2025-12-27T20:54:48.759Z
 startTime: 2024-10-02T13:27:44.531Z
 generator: Upptime <https://github.com/upptime/upptime>
