@@ -6,9 +6,9 @@
     "slug": "yoyo-dev",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 783,
     "timeDay": 772,
@@ -16,7 +16,6 @@
     "timeMonth": 816,
     "timeYear": 802,
     "dailyMinutesDown": {
-      "2026-01-15": 10,
       "2025-12-05": 35,
       "2025-10-07": 15,
       "2025-08-26": 45
